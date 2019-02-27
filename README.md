@@ -1,2 +1,2 @@
 # DungeonCrawler
-E.D.J.E comapnies first game
+E.D.J.E companies first game
